@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="submit">Submit</string>
+    <string name="leader_board">LEADERBOARD</string>
+    <string name="top_learner_badge">Top learner badge</string>
+    <string name="gads">Google Android Developers Scholarship</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB(link)</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+</resources>
