@@ -15,3 +15,5 @@ It is a Leaderboard app that displays the top Learning hours and Skill IQ leader
 ![Alt text](https://github.com/Oba-max22/Leaderboard/blob/master/Screenshot_20200907-205053.png "Five")
 
 ![Alt text](https://github.com/Oba-max22/Leaderboard/blob/master/Screenshot_20200907-205059.png "Six")
+
+![Alt text](https://github.com/Oba-max22/Leaderboard/blob/master/Screenshot_20200907-225336.png "Seven")
